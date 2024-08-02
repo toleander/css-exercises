@@ -12,3 +12,12 @@ p {
 .par {
     font-size: 24px;
 }
+.dv {
+    color: #0000ff;
+    font-size: 36px;
+}
+#div4 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
